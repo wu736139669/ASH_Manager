@@ -1,11 +1,28 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
+build/
+**/build
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.xcuserstate
+.DS_Store
+*.DS_Store
+**/.DS_Store
+**/xcuserdata
+**/DerivedData
 
-# Other files and folders
-.settings/
+# emacs backup files
+*~
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# CocoaPods
+Pods
+Podfile.lock
