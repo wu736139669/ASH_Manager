@@ -4,14 +4,15 @@ Pod::Spec.new do |s|
 
 
   s.name         = "ASH_Manager"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of ASH_Manager."
+  s.version      = "1.0.0"
+  s.summary      = "自己用的库"
 
 
   s.description  = <<-DESC
+  主要是给自己用的pod库。
                    DESC
 
-  s.homepage     = "http://EXAMPLE/ASH_Manager"
+  s.homepage     = "https://github.com/wu736139669"
 
 
 
@@ -19,13 +20,13 @@ Pod::Spec.new do |s|
 
 
  
-  s.author             = { "wushenghua" => "wushenghua@linggan.com" }
+  s.author             = { "wushenghua" => "https://github.com/wu736139669" }
  
   s.platform     = :ios, "7.0"
 
 
 
-  s.source       = { :git => "http://EXAMPLE/ASH_Manager.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/wu736139669/ASH_Manager.git", :tag => "1.0.0" }
 
 
   s.source_files  = "ASH_Manager/*.{h,m}"
