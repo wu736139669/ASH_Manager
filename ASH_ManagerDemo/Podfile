@@ -1,0 +1,2 @@
+platform :ios, '7.0'
+pod 'ASH_Manager' , :path => '/Users/xmfish/Documents/Ash_Soft/ASH_Manager'
