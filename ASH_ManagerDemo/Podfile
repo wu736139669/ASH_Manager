@@ -1,2 +1,2 @@
 platform :ios, '7.0'
-pod 'ASH_Manager' , :path => '/Users/xmfish/Documents/Ash_Soft/ASH_Manager'
+pod 'ASH_Manager' , :git => 'https://github.com/wu736139669/ASH_Manager.git'
